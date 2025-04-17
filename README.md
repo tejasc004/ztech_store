@@ -1,2 +1,6 @@
 # e-commerce-storefront
-Tech store e-commerce storefront website
+E-commerce website for tech store
+
+Created by: Zachary Lucero and Tejas Chigurupati
+
+All rights reserved
