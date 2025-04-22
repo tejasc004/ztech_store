@@ -1,4 +1,4 @@
-import Book from './Book'
+import Book from './components/Book/Book'
 import './App.css'
 
 function App() {
