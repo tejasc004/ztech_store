@@ -1,0 +1,218 @@
+{
+  "Computer Department": [
+    {
+      "name": "Gaming Laptop (Alienware x16)",
+      "description": "High-performance laptop designed for immersive gaming with advanced cooling and RGB lighting.",
+      "rating": 4.8,
+      "price": "$2499",
+      "in stock": true
+    },
+    {
+      "name": "All-in-One Desktop (iMac)",
+      "description": "Sleek desktop with integrated components, offering a clean setup and high-resolution display.",
+      "rating": 4.6,
+      "price": "$1799",
+      "in stock": false
+    },
+    {
+      "name": "External Graphics Processing Unit (eGPU)",
+      "description": "Boosts your laptop’s graphics power with a powerful external GPU enclosure.",
+      "rating": 4.5,
+      "price": "$599",
+      "in stock": true
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "description": "Tactile keyboard with customizable switches, ideal for gamers and typists.",
+      "rating": 4.7,
+      "price": "$129",
+      "in stock": true
+    },
+    {
+      "name": "Ultrabook (Dell XPS 13)",
+      "description": "Lightweight, premium laptop with excellent battery life and slim bezels.",
+      "rating": 4.6,
+      "price": "$1199",
+      "in stock": true
+    },
+    {
+      "name": "Portable Monitor",
+      "description": "Slim, USB-powered monitor for on-the-go productivity and dual-screen setups.",
+      "rating": 4.4,
+      "price": "$219",
+      "in stock": false
+    },
+    {
+      "name": "Mac Mini (M2)",
+      "description": "Compact Apple desktop powered by the M2 chip for blazing-fast performance.",
+      "rating": 4.7,
+      "price": "$699",
+      "in stock": true
+    },
+    {
+      "name": "Chromebox",
+      "description": "Mini desktop running Chrome OS, perfect for basic computing tasks.",
+      "rating": 4.3,
+      "price": "$249",
+      "in stock": false
+    },
+    {
+      "name": "Mini PC Stick",
+      "description": "Ultra-portable PC that plugs into any HDMI port to deliver computing anywhere.",
+      "rating": 4.2,
+      "price": "$159",
+      "in stock": true
+    },
+    {
+      "name": "Liquid CPU Cooler",
+      "description": "Efficient liquid cooling system for optimal CPU temperatures and quiet performance.",
+      "rating": 4.5,
+      "price": "$89",
+      "in stock": true
+    }
+  ],
+  "Mobile and Watch Department": [
+    {
+      "name": "Foldable Smartphone (Galaxy Z Fold)",
+      "description": "Innovative phone-tablet hybrid with a foldable screen and multitasking features.",
+      "rating": 4.6,
+      "price": "$1899",
+      "in stock": true
+    },
+    {
+      "name": "Rugged Smartphone (CAT S62 Pro)",
+      "description": "Durable smartphone built for extreme environments with thermal imaging support.",
+      "rating": 4.4,
+      "price": "$599",
+      "in stock": false
+    },
+    {
+      "name": "Apple Watch Ultra",
+      "description": "Premium smartwatch with robust health tracking and outdoor sports capabilities.",
+      "rating": 4.8,
+      "price": "$799",
+      "in stock": true
+    },
+    {
+      "name": "Google Pixel Watch",
+      "description": "Stylish Android-compatible smartwatch with Fitbit integration and smart notifications.",
+      "rating": 4.5,
+      "price": "$349",
+      "in stock": true
+    },
+    {
+      "name": "Kids’ Smartwatch (with GPS)",
+      "description": "Child-friendly smartwatch offering GPS tracking and limited calling functions.",
+      "rating": 4.3,
+      "price": "$129",
+      "in stock": true
+    },
+    {
+      "name": "Satellite Phone",
+      "description": "Reliable communication tool for remote areas with no cellular coverage.",
+      "rating": 4.2,
+      "price": "$999",
+      "in stock": false
+    },
+    {
+      "name": "Wireless Charging Pad",
+      "description": "Convenient charging pad compatible with Qi-enabled devices and fast charging.",
+      "rating": 4.4,
+      "price": "$39",
+      "in stock": true
+    },
+    {
+      "name": "Android Tablet (Samsung Galaxy Tab)",
+      "description": "Versatile tablet with high-res display and multitasking features for work or play.",
+      "rating": 4.6,
+      "price": "$549",
+      "in stock": true
+    },
+    {
+      "name": "Refurbished iPhone",
+      "description": "Certified pre-owned iPhone offering premium features at a lower cost.",
+      "rating": 4.5,
+      "price": "$499",
+      "in stock": false
+    },
+    {
+      "name": "Fitness Tracker (Fitbit Charge 6)",
+      "description": "Wearable device that tracks steps, heart rate, sleep, and activity goals.",
+      "rating": 4.4,
+      "price": "$149",
+      "in stock": true
+    }
+  ],
+  "Accessory Department": [
+    {
+      "name": "Noise-Canceling Headphones",
+      "description": "Headphones that block ambient sound, ideal for travel and focused work.",
+      "rating": 4.7,
+      "price": "$299",
+      "in stock": true
+    },
+    {
+      "name": "USB-C Hub Docking Station",
+      "description": "Multi-port hub for connecting laptops to peripherals and displays easily.",
+      "rating": 4.5,
+      "price": "$79",
+      "in stock": false
+    },
+    {
+      "name": "Webcam with Ring Light",
+      "description": "High-definition webcam with built-in lighting for crisp video calls.",
+      "rating": 4.6,
+      "price": "$99",
+      "in stock": true
+    },
+    {
+      "name": "Bluetooth Mechanical Keypad",
+      "description": "Compact keypad with mechanical switches, ideal for productivity shortcuts.",
+      "rating": 4.4,
+      "price": "$59",
+      "in stock": true
+    },
+    {
+      "name": "Smart Glasses (Ray-Ban Meta)",
+      "description": "Sunglasses with built-in cameras and speakers for a connected lifestyle.",
+      "rating": 4.3,
+      "price": "$329",
+      "in stock": false
+    },
+    {
+      "name": "Ergonomic Laptop Stand",
+      "description": "Adjustable stand to improve posture and laptop airflow during use.",
+      "rating": 4.5,
+      "price": "$45",
+      "in stock": true
+    },
+    {
+      "name": "High-Speed SD Card",
+      "description": "Fast read/write SD card for cameras, drones, and file transfers.",
+      "rating": 4.6,
+      "price": "$29",
+      "in stock": true
+    },
+    {
+      "name": "VR Headset (Meta Quest)",
+      "description": "Standalone virtual reality headset offering immersive gaming experiences.",
+      "rating": 4.7,
+      "price": "$399",
+      "in stock": false
+    },
+    {
+      "name": "Wireless Presentation Remote",
+      "description": "Clicker with laser pointer and wireless range for smooth presentations.",
+      "rating": 4.4,
+      "price": "$39",
+      "in stock": true
+    },
+    {
+      "name": "MagSafe Power Bank",
+      "description": "Magnetic wireless power bank for iPhones with fast-charging support.",
+      "rating": 4.5,
+      "price": "$59",
+      "in stock": true
+    }
+  ]
+}
