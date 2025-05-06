@@ -1,0 +1,218 @@
+{
+  "Computer Department": [
+    {
+      "name": "Gaming Laptop (Alienware x16)",
+      "description": "High-performance laptop designed for immersive gaming with advanced cooling and RGB lighting.",
+      "rating": 4.8,
+      "price": 2499,
+      "inStock": true
+    },
+    {
+      "name": "All-in-One Desktop (iMac)",
+      "description": "Sleek desktop with integrated components, offering a clean setup and high-resolution display.",
+      "rating": 4.6,
+      "price": 1799,
+      "inStock": false
+    },
+    {
+      "name": "Wireless Mouse",
+      "description": "Ergonomic mouse with adjustable DPI.",
+      "rating": 4.2,
+      "price": 29,
+      "inStock": true
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "description": "RGB backlit keyboard with blue switches.",
+      "rating": 4.5,
+      "price": 89,
+      "inStock": true
+    },
+    {
+      "name": "External SSD (1TB)",
+      "description": "Portable NVMe SSD with USB-C.",
+      "rating": 4.7,
+      "price": 129,
+      "inStock": true
+    },
+    {
+      "name": "Noise-Cancelling Headphones",
+      "description": "Over-ear, wireless, 30h battery life.",
+      "rating": 4.4,
+      "price": 199,
+      "inStock": true
+    },
+    {
+      "name": "Webcam 1080p",
+      "description": "Full HD webcam with built-in mic.",
+      "rating": 4.1,
+      "price": 49,
+      "inStock": true
+    },
+    {
+      "name": "Portable Monitor (15.6\")",
+      "description": "USB-C powered portable second screen.",
+      "rating": 4.3,
+      "price": 149,
+      "inStock": true
+    },
+    {
+      "name": "Presentation Clicker",
+      "description": "Clicker with laser pointer and wireless range for smooth presentations.",
+      "rating": 4.4,
+      "price": 39,
+      "inStock": true
+    },
+    {
+      "name": "MagSafe Power Bank",
+      "description": "Magnetic wireless power bank for iPhones with fast-charging support.",
+      "rating": 4.5,
+      "price": 59,
+      "inStock": true
+    }
+  ],
+  "Mobile Devices": [
+    {
+      "name": "Smartphone A1",
+      "description": "6.5\" display, 128GB storage.",
+      "rating": 4.2,
+      "price": 699,
+      "inStock": true
+    },
+    {
+      "name": "Smartphone B2",
+      "description": "5G capable, dual-camera setup.",
+      "rating": 4.4,
+      "price": 799,
+      "inStock": true
+    },
+    {
+      "name": "Tablet X10",
+      "description": "10\" tablet, 64GB storage.",
+      "rating": 4.1,
+      "price": 329,
+      "inStock": true
+    },
+    {
+      "name": "Smartwatch Z",
+      "description": "Heart rate + GPS tracking.",
+      "rating": 4.3,
+      "price": 199,
+      "inStock": false
+    },
+    {
+      "name": "E-Reader Pro",
+      "description": "7\" e-ink display with backlight.",
+      "rating": 4.6,
+      "price": 129,
+      "inStock": true
+    },
+    {
+      "name": "Foldable Phone Q",
+      "description": "7.8\" foldable AMOLED screen.",
+      "rating": 4.0,
+      "price": 1199,
+      "inStock": true
+    },
+    {
+      "name": "Bluetooth Earbuds",
+      "description": "Noise isolating, 20h battery.",
+      "rating": 4.2,
+      "price": 89,
+      "inStock": true
+    },
+    {
+      "name": "Gaming Handheld",
+      "description": "Portable console with 4h battery life.",
+      "rating": 4.1,
+      "price": 149,
+      "inStock": true
+    },
+    {
+      "name": "Dashcam",
+      "description": "1080p car dash camera with loop recording.",
+      "rating": 4.0,
+      "price": 59,
+      "inStock": true
+    },
+    {
+      "name": "VR Headset",
+      "description": "PC-powered VR headset.",
+      "rating": 4.3,
+      "price": 299,
+      "inStock": false
+    }
+  ],
+  "Accessories": [
+    {
+      "name": "USB-C Cable",
+      "description": "1m braided cable.",
+      "rating": 4.5,
+      "price": 12,
+      "inStock": true
+    },
+    {
+      "name": "Lightning Cable",
+      "description": "MFi certified cable.",
+      "rating": 4.4,
+      "price": 15,
+      "inStock": true
+    },
+    {
+      "name": "Wireless Charger",
+      "description": "Qi fast-charge pad.",
+      "rating": 4.3,
+      "price": 29,
+      "inStock": true
+    },
+    {
+      "name": "Phone Case",
+      "description": "Shockproof TPU case.",
+      "rating": 4.2,
+      "price": 19,
+      "inStock": true
+    },
+    {
+      "name": "Screen Protector",
+      "description": "Tempered glass pack of 2.",
+      "rating": 4.1,
+      "price": 17,
+      "inStock": true
+    },
+    {
+      "name": "Power Bank 20k mAh",
+      "description": "Dual-USB fast-charge.",
+      "rating": 4.6,
+      "price": 39,
+      "inStock": true
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "description": "10W portable speaker.",
+      "rating": 4.4,
+      "price": 49,
+      "inStock": true
+    },
+    {
+      "name": "Laptop Sleeve",
+      "description": "13\" neoprene sleeve.",
+      "rating": 4.2,
+      "price": 25,
+      "inStock": true
+    },
+    {
+      "name": "Stylus Pen",
+      "description": "Capacitive stylus for tablets.",
+      "rating": 4.0,
+      "price": 15,
+      "inStock": true
+    },
+    {
+      "name": "HDMI Adapter",
+      "description": "USB-C to HDMI 4K.",
+      "rating": 4.3,
+      "price": 22,
+      "inStock": true
+    }
+  ]
+}
